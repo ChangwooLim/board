@@ -1,7 +1,7 @@
 # :yellow_heart: board <img src = "logo.png" width = 120 align = 'right'>
 Data Profiling Shiny Module and functions.
 
-## :clipboard: Dependency
+## :clipboard: Dependency 
 
 * [magrittr](https://magrittr.tidyverse.org/) - 2.0.3
 * [ggplot2](https://ggplot2.tidyverse.org/) - 3.3.6
